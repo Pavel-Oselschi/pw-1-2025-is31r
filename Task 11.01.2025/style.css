@@ -1,0 +1,18 @@
+#chessboard {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.body {
+    text-align: center;
+    background-color: rgb(45, 44, 44);
+}
+
+.texth1 {
+    color: azure;
+}
+
+#timer {
+    color: rgb(249, 9, 17);
+}
